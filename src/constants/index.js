@@ -42,19 +42,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Growth",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Unity",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Togetherness",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Enjoyment",
     icon: creator,
   },
 ];
@@ -116,55 +116,28 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "Khushiyon Wali Teej",
+    company_name: "Rtr. Roshni Panjwani, Rtr. Supriya",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "August 29, 2023 - September 2, 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Teej, a vibrant and joyous Hindu festival, celebrates the arrival of the monsoon season, renewal of life, and the bond between husband and wife.",
+      " Adorned in colorful traditional attire, women sing and dance, swinging on intricately decorated swings, while the aroma of traditional sweets and delicacies fills the air.",
+      "It's a time of prayer, fasting, and festivity, as communities come together to share in the merriment, marking the rejuvenation of nature and the spirit of togetherness.",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "Umeed 3.0 session 6",
+    company_name: "Rtr. Dev Tanwani, Rtr. Param Charha",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "August 26, 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
-    iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Teaching underprivileged children is a noble endeavor that holds the power to transform lives and bridge societal gaps.",
+      " By imparting knowledge and skills, educators create a pathway for these children to break the cycle of poverty and realize their potential. ",
+      " Through patience, compassion, and tailored teaching approaches, educators not only provide academic guidance but also inspire confidence, ignite curiosity, and instill a belief in the value of education.",
+      "Each lesson becomes a step toward empowerment, fostering dreams and aspirations that hold the promise of a brighter future.",
     ],
   },
 ];
@@ -172,7 +145,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "This club has given me the opportunity to use my skills and talents for a greater cause. It's inspiring to work alongside such dedicated and compassionate individuals.",
     name: "Sara Lee",
     designation: "CFO",
     company: "Acme Co",
@@ -180,7 +153,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "Joining this club has shown me the true power of collective action. Together, we've tackled important issues and made a real difference in the lives of those we serve.",
     name: "Chris Brown",
     designation: "COO",
     company: "DEF Corp",
@@ -188,7 +161,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "I've been a member of this social service club for years, and I'm continuously amazed by the positive change we bring to our community. It's an honor to be part of this incredible team.",
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",
@@ -198,20 +171,20 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Drop Of Hope",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "The Rotaract Club's blood donation project exemplifies the spirit of humanitarian service and community support. By organizing blood drives and awareness campaigns, the club plays a crucial role in addressing the ongoing need for life-saving blood donations. Through these efforts, they contribute to medical emergencies, surgeries, and treatments, ultimately saving lives and fostering a culture of voluntary giving.",
     tags: [
       {
-        name: "react",
+        name: "bloodDonation",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "saveLives",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "donateBlood",
         color: "pink-text-gradient",
       },
     ],
@@ -219,45 +192,45 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "View of Viewers",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "The Rotaract Club's blood donation project exemplifies the spirit of humanitarian service and community support. By organizing blood drives and awareness campaigns, the club plays a crucial role in addressing the ongoing need for life-saving blood donations. Through these efforts, they contribute to medical emergencies, surgeries, and treatments, ultimately saving lives and fostering a culture of voluntary giving.",
     tags: [
       {
-        name: "react",
+        name: "bloodDonation",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "saveLives",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "donateBlood",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: carrent,
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Spill the Skill",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "The Rotaract Club's blood donation project exemplifies the spirit of humanitarian service and community support. By organizing blood drives and awareness campaigns, the club plays a crucial role in addressing the ongoing need for life-saving blood donations. Through these efforts, they contribute to medical emergencies, surgeries, and treatments, ultimately saving lives and fostering a culture of voluntary giving.",
     tags: [
       {
-        name: "nextjs",
+        name: "bloodDonation",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "saveLives",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "donateBlood",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: carrent,
     source_code_link: "https://github.com/",
   },
 ];

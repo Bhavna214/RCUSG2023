@@ -47,11 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        The Rotaract Club of Ulhasnagar Sapna Garden is a dynamic and community-driven youth organization based in Ulhasnagar, dedicated to making a positive impact through service and leadership. Comprising young professionals and students, the club operates under the principles of Rotary International, focusing on fostering personal growth, community development, and international understanding. Through a wide range of innovative projects, events, and initiatives, the Rotaract Club of Ulhasnagar Sapna Garden aims to create meaningful change and contribute to the betterment of society.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
