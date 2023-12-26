@@ -189,7 +189,6 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
   },
   {
     name: "View of Viewers",
@@ -210,7 +209,6 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
   },
   {
     name: "Spill the Skill",

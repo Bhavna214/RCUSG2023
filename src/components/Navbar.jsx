@@ -3,7 +3,8 @@ import { Link } from "react-router-dom";
 
 import { styles } from "../styles";
 import { navLinks } from "../constants";
-import { logo, menu, close } from "../assets";
+import {menu, close } from "../assets";
+import logo from '../assets/logo2.png'
 
 const Navbar = () => {
   const [active, setActive] = useState("");
@@ -42,10 +43,10 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <img src={logo} alt='logo' className='w-9 h-9 object-contain' />
-          <p className='text-white text-[18px] font-bold cursor-pointer flex '>
+          <img src={logo} alt='logo' className='w-9 h-9 object-contain text-[18px] cursor-pointer' style={{ width: '9rem', height: '6.5rem' }}/>
+          {/* <p className='text-white text-[18px] font-bold cursor-pointer flex '>
             <span className='sm:block hidden'> Rotaract Club of Ulhasnagar Sapna Garden</span>
-          </p>
+          </p> */}
         </Link>
 
         <ul className='list-none hidden sm:flex flex-row gap-10'>
