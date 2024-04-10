@@ -174,18 +174,18 @@ const projects = [
   {
     name: "Be The Change",
     description:
-      "The Rotaract Club's blood donation project exemplifies the spirit of humanitarian service and community support. By organizing blood drives and awareness campaigns, the club plays a crucial role in addressing the ongoing need for life-saving blood donations. Through these efforts, they contribute to medical emergencies, surgeries, and treatments, ultimately saving lives and fostering a culture of voluntary giving.",
+      "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle-Sudha Chandran. By cultivating deep trust in herself, Sudha Chandran overcame her a life altering setback. ",
     tags: [
       {
-        name: "bloodDonation",
+        name: "Roobaroo",
         color: "blue-text-gradient",
       },
       {
-        name: "saveLives",
+        name: "Aarambh",
         color: "green-text-gradient",
       },
       {
-        name: "donateBlood",
+        name: "Digital Dynamo",
         color: "pink-text-gradient",
       },
     ],
@@ -195,18 +195,18 @@ const projects = [
   {
     name: "Be The Change",
     description:
-      "The Rotaract Club's blood donation project exemplifies the spirit of humanitarian service and community support. By organizing blood drives and awareness campaigns, the club plays a crucial role in addressing the ongoing need for life-saving blood donations. Through these efforts, they contribute to medical emergencies, surgeries, and treatments, ultimately saving lives and fostering a culture of voluntary giving.",
+      "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle-Sudha Chandran. By cultivating deep trust in herself, Sudha Chandran overcame her a life altering setback. ",
     tags: [
       {
-        name: "bloodDonation",
+        name: "Roobaroo",
         color: "blue-text-gradient",
       },
       {
-        name: "saveLives",
+        name: "Aarambh",
         color: "green-text-gradient",
       },
       {
-        name: "donateBlood",
+        name: "Digital Dynamo",
         color: "pink-text-gradient",
       },
     ],
@@ -216,18 +216,18 @@ const projects = [
   {
     name: "Be The Change",
     description:
-      "The Rotaract Club's blood donation project exemplifies the spirit of humanitarian service and community support. By organizing blood drives and awareness campaigns, the club plays a crucial role in addressing the ongoing need for life-saving blood donations. Through these efforts, they contribute to medical emergencies, surgeries, and treatments, ultimately saving lives and fostering a culture of voluntary giving.",
+      "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle-Sudha Chandran. By cultivating deep trust in herself, Sudha Chandran overcame her a life altering setback. ",
     tags: [
       {
-        name: "bloodDonation",
+        name: "Roobaroo",
         color: "blue-text-gradient",
       },
       {
-        name: "saveLives",
+        name: "Aarambh",
         color: "green-text-gradient",
       },
       {
-        name: "donateBlood",
+        name: "Digital Dynamo",
         color: "pink-text-gradient",
       },
     ],
