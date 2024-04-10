@@ -23,6 +23,7 @@ import {
   jobit,
   tripguide,
   threejs,
+  project,
 } from "../assets";
 
 export const navLinks = [
@@ -171,7 +172,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Drop Of Hope",
+    name: "Be The Change",
     description:
       "The Rotaract Club's blood donation project exemplifies the spirit of humanitarian service and community support. By organizing blood drives and awareness campaigns, the club plays a crucial role in addressing the ongoing need for life-saving blood donations. Through these efforts, they contribute to medical emergencies, surgeries, and treatments, ultimately saving lives and fostering a culture of voluntary giving.",
     tags: [
@@ -188,10 +189,11 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: project,
+    source_code_link: "https://www.instagram.com/reel/C5kxlQoPIpO/?igsh=MWc4M2NmZnJzZTFiaQ==",
   },
   {
-    name: "View of Viewers",
+    name: "Be The Change",
     description:
       "The Rotaract Club's blood donation project exemplifies the spirit of humanitarian service and community support. By organizing blood drives and awareness campaigns, the club plays a crucial role in addressing the ongoing need for life-saving blood donations. Through these efforts, they contribute to medical emergencies, surgeries, and treatments, ultimately saving lives and fostering a culture of voluntary giving.",
     tags: [
@@ -208,10 +210,11 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: project,
+    source_code_link: "https://www.instagram.com/reel/C5lLVvyt9_g/?igsh=dm5jN2pxMzBvbnc0",
   },
   {
-    name: "Spill the Skill",
+    name: "Be The Change",
     description:
       "The Rotaract Club's blood donation project exemplifies the spirit of humanitarian service and community support. By organizing blood drives and awareness campaigns, the club plays a crucial role in addressing the ongoing need for life-saving blood donations. Through these efforts, they contribute to medical emergencies, surgeries, and treatments, ultimately saving lives and fostering a culture of voluntary giving.",
     tags: [
@@ -228,8 +231,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: project,
+    source_code_link: "https://www.instagram.com/reel/C5ijDt4tl5a/?igsh=MXVzOTN5ZjRmMHZ2ag==",
   },
 ];
 
